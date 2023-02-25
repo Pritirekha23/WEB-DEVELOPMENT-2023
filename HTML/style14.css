@@ -1,0 +1,34 @@
+button{
+    background-image:linear-gradient(90deg,rgb(225, 104, 162),rgb(146, 146, 219));
+    color: rgb(1, 4, 7);
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+
+}
+
+fieldset{
+    width: 50px;
+  
+    margin:auto;
+    background-image: linear-gradient(90deg,rgb(211, 132, 182),rgb(56, 201, 126));
+    border: none;
+    border-radius: 20px;
+}
+#hi {
+    background-image:linear-gradient(90deg,rgb(14, 106, 124),rgb(16, 140, 45));
+    color: aliceblue;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+}
+#in12,#in23{
+    border: none;
+    border-radius: 10px;
+    
+    
+
+
+}
