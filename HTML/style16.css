@@ -1,19 +1,25 @@
 table{
-    width: auto;
+  
     height: auto;
+    width:auto;
     text-align: center;
     background-color:black;
     font-size: 20px;
-    border-color: aqua;
-    color: rgb(176, 165, 149);
+    border-color: rgb(235, 27, 204);
+    color:white;
+   
+   
     
 }
 tr,th,td{
     padding: 1px;
+   
 }
+
 caption{
-    color: rgb(193, 82, 82);
-    background-color: cadetblue;
+    color: rgb(250, 17, 118);
+    background-color: rgb(200, 205, 169);
+   
 }
 img{
   
