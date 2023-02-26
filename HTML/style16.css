@@ -1,0 +1,27 @@
+table{
+    width: auto;
+    height: auto;
+    text-align: center;
+    background-color:black;
+    font-size: 20px;
+    border-color: aqua;
+    color: rgb(176, 165, 149);
+    
+}
+tr,th,td{
+    padding: 1px;
+}
+caption{
+    color: rgb(193, 82, 82);
+    background-color: cadetblue;
+}
+img{
+  
+     height: 200px;
+     width: 300px;
+}
+iframe{
+    height: 200px;
+     width: 300px;
+}
+}
