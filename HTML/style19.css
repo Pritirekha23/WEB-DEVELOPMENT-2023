@@ -1,0 +1,37 @@
+div{
+    padding: 15px;
+    margin: 15px;
+    width: 28%;
+    text-align: center;
+    color:rgb(10, 5, 10);
+    display: inline-block;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color: rgb(6, 41, 20);
+}
+#d1{
+background: linear-gradient(90deg, rgb(243, 115, 132),lightgreen
+);
+
+}
+#d2{
+    background: linear-gradient(90deg, rgb(210, 122, 135),rgb(21, 195, 207)
+    );
+}
+#d3{
+        background: linear-gradient(90deg, lightpink,rgb(196, 34, 172)
+        );
+}
+button{
+    background-image: linear-gradient(90deg,rgb(48, 203, 177),rgb(96, 7, 7)
+    );
+    color: gold;
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+   font-style: italic;
+
+}
