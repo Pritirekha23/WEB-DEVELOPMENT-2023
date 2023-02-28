@@ -1,0 +1,29 @@
+div{
+    padding: 15px;
+    margin: 15px;
+    width: 28%;
+    text-align: center;
+    
+    display: inline-block;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+figure {
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    color: rgb(37, 67, 0);
+    /* text-decoration: line-through; */
+    background:rgb(237, 70, 237);
+    box-shadow: 0px 2px 10px 10px rgb(119, 227, 218);
+}
+img{
+ border-radius: 10px;
+ text-align: center;
+ }
+ body{
+    background: rgb(226, 168, 226);
+    text-align: center;
+ }
