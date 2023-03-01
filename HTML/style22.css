@@ -1,0 +1,25 @@
+aside{
+    background: lightcoral;
+    float:left;
+    /* padding: 10px; */
+    height: 100vh;
+ 
+}
+
+a{
+    color: aliceblue;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+
+}
+a:hover{
+    background-color: blueviolet;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
