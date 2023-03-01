@@ -14,3 +14,9 @@ color: rgb(156, 22, 112);
 /* .c1{
     color: brown;
 } */
+
+/* ATTRIBUTE SELECTOR */
+
+input[type="text"]{
+    border: 5px solid rgb(176, 161, 30);
+}
