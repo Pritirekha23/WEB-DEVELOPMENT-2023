@@ -26,5 +26,9 @@ color: rgb(156, 22, 112);
     background: lightgreen;
 } */
 
+/* universal selector */
+div,body,p,html{
+    border: 3px solid aqua;
+}
 
 
