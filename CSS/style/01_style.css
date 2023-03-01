@@ -17,6 +17,14 @@ color: rgb(156, 22, 112);
 
 /* ATTRIBUTE SELECTOR */
 
-input[type="text"]{
+/* input[type="text"]{
     border: 5px solid rgb(176, 161, 30);
-}
+} */
+
+/* GROUPING SELECTORS */
+/* div,p{
+    background: lightgreen;
+} */
+
+
+
