@@ -1,0 +1,14 @@
+{
+    "name": "V",
+    "short_name": "V",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#c86ac2",
+    "background_color": "#c86ac2",
+    "display": "standalone"
+}
