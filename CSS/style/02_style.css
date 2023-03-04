@@ -12,7 +12,13 @@ div{
 /* background-color: rgba(255,0,0,0.5); */
 
 /* hex */
-background-color:#ffcc00 ;
+/* background-color:#ffcc00 ; */
+
+/* HSL */
+/*background-color: hsl(330, 80%, 60%); */
+
+/* hsla */
+background-color:hsla(165, 54%, 51%, 0.3);
 
 
 }

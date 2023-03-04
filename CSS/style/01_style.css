@@ -27,8 +27,21 @@ color: rgb(156, 22, 112);
 } */
 
 /* universal selector */
-div,body,p,html{
+/* div,body,p,html{
     border: 3px solid aqua;
+
+} */
+/* 
+*{
+    border: 3px solid aqua;
+} */
+
+/* body{
+    color: red;
+} */
+
+*{
+    color: red;
 }
 
 
