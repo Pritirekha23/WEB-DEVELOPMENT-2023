@@ -1,0 +1,14 @@
+.c1{
+    height: 660px;
+    width:auto;
+    background-image: url(/HTML/Images/BTS-Images/bs.jfif);
+    /* background-repeat: no-repeat; */
+    /* background-repeat: space; */
+    /* background-repeat: round; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: repeat-z; */
+    /* background-repeat: repeat no-repeat; */
+    /* background-repeat: no-repeat repeat-x; */
+     background-repeat: round;
+}

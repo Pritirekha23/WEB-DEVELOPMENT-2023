@@ -1,0 +1,24 @@
+
+p{
+    background-color: aqua;
+}
+
+div p{
+    background-color: chartreuse;
+}
+
+div>p{
+    background-color: darkred !important;
+}
+
+.c1{
+    background-color: darkgray;
+}
+
+
+#id1{
+    background-color: fuchsia;
+}
+
+/* forcefully apply color --> by using !important we can override the color precedence */
+/* !important */

@@ -1,0 +1,17 @@
+/* .c1{
+    background-color: darkcyan; 
+
+     background-image: linear-gradient(45deg,pink,red); 
+     
+ }  */
+
+.c2{
+    height: 500px;
+    width: 600px;
+  background-image:linear-gradient(
+    45deg,
+    rgba(46, 110, 68, 0.2),
+    rgba(232, 127, 148, 0.3)),
+    url(/HTML/Images/picp/07_sibling\ image.jpg) ;
+   background-size: cover;
+ }
