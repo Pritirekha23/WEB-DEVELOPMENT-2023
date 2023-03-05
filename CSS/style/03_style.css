@@ -1,0 +1,12 @@
+/* to give a particuular color div paragraph  */
+/* div p{
+    background-color: aquamarine;
+} */
+
+.c1 p{
+    background-color: rgb(63, 193, 147);
+}
+
+.c2 p{
+    background-color: cadetblue;
+}
