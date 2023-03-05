@@ -1,0 +1,16 @@
+.c1{
+    height: 500px;
+    width: 600px;
+    background-color: aquamarine;
+    font-size: medium;
+    color: rgb(25, 9, 3);
+    padding: 30px;
+    border: 20px dotted rgb(30, 43, 223);
+    background-image: url(/HTML/Images/picp/08_kim-taehyung.png);
+    background-repeat: no-repeat; 
+    background-size: contain;
+
+    /* background-origin: content-box; */
+    /* background-origin:border-box; */
+    background-origin: content-box;
+}
