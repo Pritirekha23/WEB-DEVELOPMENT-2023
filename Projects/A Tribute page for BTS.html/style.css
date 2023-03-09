@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(16, 16, 51);
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+    border-radius: 5px;
+}
+li{
+    padding: 10px;
+    text-transform: uppercase;
+    color:white;
+    
+    display: inline-block;
+    cursor: pointer;
+}
+li:hover{
+    /* border-bottom: 5px solid purple; */
+    background-color: palevioletred;
+    border-radius: 10px;
+    /* transition-property: inherit; */
+}
