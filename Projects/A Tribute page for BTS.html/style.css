@@ -1,23 +1,21 @@
 body{
-    background-color: rgb(16, 16, 51);
+    background-color:#DC143C;
 }
 
-ul{
-    list-style-type: none;
-    text-align: center;
-    border-radius: 5px;
+table{
+    height: 100%;
+    width: 100%;
 }
-li{
-    padding: 10px;
-    text-transform: uppercase;
-    color:white;
-    
+
+figcaption{
+font-size: x-large; 
+color: white;  
+font-family: cursive;
+}
+.c2,li{
+    width: 350px;
+
+}
+div{
     display: inline-block;
-    cursor: pointer;
-}
-li:hover{
-    /* border-bottom: 5px solid purple; */
-    background-color: palevioletred;
-    border-radius: 10px;
-    /* transition-property: inherit; */
 }
