@@ -1,5 +1,5 @@
 body{
-    background-color:#DC143C;
+    background-color:#ea245c;
 }
 
 table{
@@ -8,14 +8,56 @@ table{
 }
 
 figcaption{
-font-size: x-large; 
+font-size: medium; 
 color: white;  
-font-family: cursive;
+font-family: cursive; 
 }
 .c2,li{
+    /* text-align: center; */
     width: 350px;
+    list-style-type: square;
+   font-size: medium;
+   font-weight:bolder;
+   color: rgb(45, 38, 29);
 
 }
-div{
-    display: inline-block;
+.c2,h2{
+    text-align: center;
+    color: cyan;
+    text-decoration: none;
+    font-display:block;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
+
+#id1{
+    color: rgb(1, 12, 12);
+}
+#trh1{
+    text-align: center;
+    color:teal;
+   
+    text-shadow:
+          1px 1px 1px #000,
+          2px 2px 1px #666,
+          3px 3px 1px #999;
+      
+        /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); */
+}
+
+.c3,h2{
+    text-align: center;
+    color: rgb(61, 4, 75);
+    text-decoration: none;
+    font-display:block;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
+.c3,li{
+    text-align: center;
+    width: 350px;
+    list-style-type: none;
+   font-size: larger;
+   font-weight:bolder;
+   color: rgb(45, 38, 29);
+
+
 }
