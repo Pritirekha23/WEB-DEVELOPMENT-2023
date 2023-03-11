@@ -11,6 +11,7 @@ figcaption{
 font-size: large; 
 color: white;  
 font-family: cursive; 
+text-align: center;
 }
 .c2,li{
     text-align: center;
@@ -41,7 +42,7 @@ font-family: cursive;
         /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); */
 }
 
-.c3,h2{
+/* .c3,h2{
     text-align: center;
     color: rgb(40, 7, 48);
     text-decoration: none;
@@ -56,4 +57,30 @@ font-family: cursive;
     font-family: Arial, Helvetica, sans-serif;
     
     
+} */
+.c6,img{
+    height: 100%;
+    width: 100%;
+    /* padding: 10px;
+    margin: 10px; */
+}
+.fs1,fieldset{
+    margin: 10px;
+    border: #000;
+}
+.fs2{
+    text-align: center;
+    color: rgb(66, 202, 202);
+    text-shadow:
+          1px 1px 1px #000,
+          2px 2px 1px #666,
+          3px 3px 1px #999;
+      
+}
+
+#div1,#div2,#div3,#div4,#div5,#div6,#div7{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+  
 }
